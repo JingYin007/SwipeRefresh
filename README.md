@@ -2,7 +2,7 @@
 这是 Google自己的下拉刷新组件SwipeRefreshLayout，简单实现
 
 #如下为简答的实现效果
-
+　　　图片可能无法显示
  
 #需要完成的设计：
 　　　1.布局文件的设计 如下文件名为 swipe_view
@@ -88,4 +88,4 @@ public class MySwipeView extends Activity implements SwipeRefreshLayout.OnRefres
 	}
 }
 
-3.PS：setColorScheme()已经弃用，使用setColorSchemeResources()来设置颜色。
+#PS：setColorScheme()已经弃用，使用setColorSchemeResources()来设置颜色。
